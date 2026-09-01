@@ -1164,23 +1164,14 @@ Add screenshots to the `Assets/` directory and reference them here.
 
 ### Data Preparation
 
-```text
-Assets/rag_data_prep.png
-```
+<img width="1365" height="596" alt="image" src="https://github.com/user-attachments/assets/a4a65338-2331-4e91-a4d1-00adff6eb858" />
+
 
 ### RAG in Action
 
-```text
-Assets/rag_in_action.png
-```
+<img width="1244" height="677" alt="image" src="https://github.com/user-attachments/assets/45a9295d-4f54-4a8c-b0fd-774a3e2f9517" />
 
-Example Markdown:
 
-```markdown
-![RAG Data Preparation](Assets/rag_data_prep.png)
-
-![RAG in Action](Assets/rag_in_action.png)
-```
 
 ---
 
@@ -1265,8 +1256,40 @@ Consider giving the repository a ⭐ and exploring the implementation.
 ## Storage
  <img width="1199" height="411" alt="image" src="https://github.com/user-attachments/assets/875c67fa-fef9-4a14-81bc-fa3afdad10fd" />
 <img width="785" height="490" alt="image" src="https://github.com/user-attachments/assets/c3e40549-1601-47c2-aee2-ffe8591dd112" />
+<img width="574" height="518" alt="image" src="https://github.com/user-attachments/assets/3e647302-bf8f-4e00-9a8c-9fa8368b038d" />
 
- 
+---
+## Azure Foundry - AI Search
+<img width="1311" height="615" alt="image" src="https://github.com/user-attachments/assets/5e3eb86f-8020-4300-a5d1-54737cec4157" />
+<img width="1085" height="566" alt="image" src="https://github.com/user-attachments/assets/ee170406-737b-4cca-bbcd-a7cb760448b0" />
+<img width="1052" height="471" alt="image" src="https://github.com/user-attachments/assets/651175dd-7649-4727-9738-9cb3d2476f96" />
+<img width="1332" height="558" alt="image" src="https://github.com/user-attachments/assets/870c816e-fa5c-4ae3-afb6-3615baa6f85e" />
+<img width="1052" height="353" alt="image" src="https://github.com/user-attachments/assets/5cfbe053-b87b-44ba-b027-ef8efe63b345" />
+
+---
+
+<img width="1322" height="605" alt="image" src="https://github.com/user-attachments/assets/70400a50-33ff-46ff-8976-623d2914395e" />
+<img width="1268" height="479" alt="image" src="https://github.com/user-attachments/assets/38b699a5-ca47-4d22-be94-09118afb7ac5" />
+
+---
+<img width="1366" height="674" alt="image" src="https://github.com/user-attachments/assets/82aa0efb-ca2f-4646-ad30-92bfcd414e15" />
+<img width="1222" height="675" alt="image" src="https://github.com/user-attachments/assets/74214663-3bc0-4320-aeb9-4da21e61c0ab" />
+<img width="1256" height="690" alt="image" src="https://github.com/user-attachments/assets/d7e489d3-f4cc-4b03-ac47-f85f46428d31" />
+<img width="1265" height="677" alt="image" src="https://github.com/user-attachments/assets/9f593a1f-5112-45b0-9596-8cc62c6b62f2" />
+<img width="1255" height="662" alt="image" src="https://github.com/user-attachments/assets/398fc90d-6674-4643-b701-811fe7803d95" />
+
+----
+<img width="1292" height="687" alt="image" src="https://github.com/user-attachments/assets/797bcda3-7582-4878-9ee2-95a544c92730" />
+
+<img width="1268" height="698" alt="image" src="https://github.com/user-attachments/assets/b384d0de-0f21-41e6-bbea-f2879aae4c55" />
+<img width="1247" height="658" alt="image" src="https://github.com/user-attachments/assets/e7616f45-476b-4d1e-b26e-c9ea1e5edba9" />
+<img width="1142" height="697" alt="image" src="https://github.com/user-attachments/assets/81f307b0-fb09-47d2-9dcd-d8fbe5dd6973" />
+<img width="1263" height="665" alt="image" src="https://github.com/user-attachments/assets/6df802e9-bbd0-411f-b8bb-aec251b48a45" />
+<img width="1245" height="682" alt="image" src="https://github.com/user-attachments/assets/4162ba4f-a114-4e93-bed7-a112eae57961" />
+
+
+
+---
 </details>
 
 ---
