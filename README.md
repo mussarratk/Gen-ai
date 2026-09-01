@@ -437,7 +437,7 @@ VS Code / Jupyter
 # 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/arvie993/multimodal-rag-azure.git
+git clone https://github.com/mussarratk/Gen-ai
 
 cd multimodal-rag-azure
 ```
@@ -452,14 +452,6 @@ cd multimodal-rag-azure
 python -m venv .venv
 
 .venv\Scripts\activate
-```
-
-### macOS / Linux
-
-```bash
-python3 -m venv .venv
-
-source .venv/bin/activate
 ```
 
 Install dependencies:
@@ -1264,3 +1256,17 @@ Data & AI Engineering | Python | SQL | Azure | Databricks | Generative AI
 Consider giving the repository a ⭐ and exploring the implementation.
 
 > **Built to demonstrate how enterprise data engineering and modern Generative AI can be combined into a scalable, secure and retrieval-grounded architecture.**
+
+---
+
+<details>
+
+# Implementation
+## Storage
+ <img width="1199" height="411" alt="image" src="https://github.com/user-attachments/assets/875c67fa-fef9-4a14-81bc-fa3afdad10fd" />
+<img width="785" height="490" alt="image" src="https://github.com/user-attachments/assets/c3e40549-1601-47c2-aee2-ffe8591dd112" />
+
+ 
+</details>
+
+---
